@@ -7,7 +7,7 @@ public class DbContext {
     private final String dbName = "BanSachDB";
     private final String portNumber = "1433";  
     private final String userID = "sa";
-    private final String password = "sa";
+    private final String password = "123";
     
     public Connection getConnection()
     {
